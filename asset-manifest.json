@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/sticky-memories/static/css/main.90ea9858.css",
-    "main.js": "/sticky-memories/static/js/main.d0b4204f.js",
-    "index.html": "/sticky-memories/index.html",
-    "main.90ea9858.css.map": "/sticky-memories/static/css/main.90ea9858.css.map",
-    "main.d0b4204f.js.map": "/sticky-memories/static/js/main.d0b4204f.js.map"
+    "main.css": "/Sticky-Memories-App/static/css/main.90ea9858.css",
+    "main.js": "/Sticky-Memories-App/static/js/main.d0b4204f.js",
+    "index.html": "/Sticky-Memories-App/index.html",
+    "main.90ea9858.css.map": "/Sticky-Memories-App/static/css/main.90ea9858.css.map",
+    "main.d0b4204f.js.map": "/Sticky-Memories-App/static/js/main.d0b4204f.js.map"
   },
   "entrypoints": [
     "static/css/main.90ea9858.css",
